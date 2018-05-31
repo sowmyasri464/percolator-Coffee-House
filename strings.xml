@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Percolator Coffee House</string>
+    <string name="location_name">Location</string>
+    <string name="address">7-5-1,RK Beach Road,Percolator Coffee House,Visakhapatnam.</string>
+    <string name="contact_details">Contact us</string>
+    <string name="phone">(+91)-0891-6666123</string>
+    <string name="time">Time To Come In</string>
+    <string name="Timings">10AM - 1AM</string>
+    <string name="web_link">www.percolator.co.in</string>
+</resources>
